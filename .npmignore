@@ -1,4 +1,9 @@
 src
+tests
+example
 tsconfig.json
-tslint.json
 .prettierrc
+.eslintignore
+.eslintrc
+jestconfig
+.parcel-cache
