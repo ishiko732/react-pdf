@@ -1,9 +1,0 @@
-{
-  "version": "v1",
-  "packages": {
-    "react-pdf": {
-      "signature": "a2bd7846147f33db73c9815f433c38d2",
-      "file": true
-    }
-  }
-}
